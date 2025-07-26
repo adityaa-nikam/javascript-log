@@ -1,0 +1,2 @@
+# javascript-log
+JAVASCRIPT PROGRESS
