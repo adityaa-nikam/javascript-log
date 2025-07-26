@@ -1,5 +1,5 @@
 # javascript-log
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"> JavaScript Practice
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"> JavaScript Practice
 
 📌 A repository to document my JavaScript learning journey.
 Dedicated to learning and experimenting with JavaScript concepts.  
