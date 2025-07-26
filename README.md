@@ -1,5 +1,6 @@
 # javascript-log
-# 📘 JavaScript Practice
+# <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="25"> JavaScript Practice
+
 
 📌 A repository to document my JavaScript learning journey.
 Dedicated to learning and experimenting with JavaScript concepts.  
