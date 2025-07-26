@@ -1,1 +1,3 @@
-console.log("Aditya Nikam");
+console.log("Aditya Nikam");     
+
+// Comment in javascript  //       (ctrl + /)
