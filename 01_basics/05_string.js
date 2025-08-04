@@ -37,4 +37,4 @@ console.log(url.includes('manish'))  // false
 console.log(gameName.split('-'));       // [ 'aditya', '07' , 'com']
 
 
-// learn string methods from mdn and console 
+// learn string methods from mdn and console prototype
