@@ -44,3 +44,28 @@ boolean  => "boolean"
 number  =>  "number"
 string  => "string"
 */
+
+//_______________________________________________________________
+
+
+// Stack ( primitive data types)
+// Heap ( non-primitive data types)
+
+let myYoutubename = "adityanikamyt"
+let anothername = myYoutubename
+anothername = "adityanikam0202"
+
+console.log(myYoutubename);     // value doesnt change
+console.log(anothername);      // value changes
+  
+let userOne = {
+    email: "user@google.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.email = "aditya@gmail.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);  //value stays the same as (heap)
