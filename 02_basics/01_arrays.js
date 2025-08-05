@@ -22,7 +22,7 @@ console.log(myArr)
 
 myArr.unshift(9)   // adds 9 start of array
 myArr.shift()   // removes 9 
-console.log(myArr)
+console.log(myArr) 
 
 console.log(myArr.includes(9));  // false  (is 9 present)
 console.log(myArr.indexOf(3)); // 3rd index
